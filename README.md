@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maxgarcia642
+- 👋 Hi, I’m @maxgarcia642. You probably came here from my LinkedIn or job application.
 - 👀 I’m interested in network administration down the line.
-- 🌱 I’m currently learning the ropes of business tech.
-- 🤝 I’m looking to collaborate on future projects.
+- 🌱 I’m currently learning the ropes of IT, but am also curious about fintech.
+- 🤝 I’m looking to collaborate on future projects if any.
 - 📫 How to reach me by email: maxgarcia642@gmail.com
 - ⚡ Fun fact: I greatly enjoy outdoor activities and the sports of snow skiing, mountain biking, and archery.
 
